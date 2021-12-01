@@ -2,6 +2,7 @@ package br.com.dio.currrencyconverter
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import androidx.appcompat.widget.Toolbar
 import androidx.databinding.DataBindingUtil
 import br.com.dio.currrencyconverter.databinding.ActivityMainBinding
 
